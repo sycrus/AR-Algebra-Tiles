@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{994E6B0C-71DF-1FD4-EFF5-75F7A3480602}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/EnterButtonController.cs">
+    <Files>
+      <File FileName="Assets/Scripts/EnterButtonController.cs" Line="20" Column="5" />
+      <File FileName="Assets/Scripts/EquationDisplayController.cs" Line="15" Column="23" />
+      <File FileName="Assets/Scripts/ModeController.cs" Line="24" Column="17" />
+      <File FileName="Assets/Scripts/ResetButtonController.cs" Line="17" Column="5" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
